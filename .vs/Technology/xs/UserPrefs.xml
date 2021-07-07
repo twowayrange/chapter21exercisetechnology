@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CC550876-2F80-47A7-A489-600C4FB8F6C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Technology/SmartPhone.cs">
+    <Files>
+      <File FileName="Technology/Program.cs" Line="1" Column="1" />
+      <File FileName="Technology/Technology.cs" Line="1" Column="1" />
+      <File FileName="Technology/Computer.cs" Line="1" Column="1" />
+      <File FileName="Technology/Laptop.cs" Line="1" Column="1" />
+      <File FileName="Technology/SmartPhone.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Technology" expanded="True">
+            <Node name="Technology" expanded="True">
+              <Node name="SmartPhone.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Technology FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
